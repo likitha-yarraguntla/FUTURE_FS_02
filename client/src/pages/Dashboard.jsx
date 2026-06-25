@@ -31,7 +31,7 @@ const leadsPerPage = 5;
     notes: "",
   });
 
-  const API_URL = "https://leadflow-crm-f796.onrender.com/api/leads";
+  const API_URL = "https://future-fs-02-rkv9.onrender.com/api/leads";
 
   const fetchLeads = async () => {
     try {
