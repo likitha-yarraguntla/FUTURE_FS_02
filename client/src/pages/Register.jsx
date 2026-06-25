@@ -25,7 +25,7 @@ e.preventDefault();
 
 try {
   await axios.post(
-    "https://leadflow-crm-f796.onrender.comcd/api/auth/register",
+    "https://leadflow-crm-f796.onrender.com/api/auth/register",
     formData
   );
 
